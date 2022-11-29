@@ -1,5 +1,5 @@
-# is-your-birthday-lucky 
- A website which checks whether your birthday is lucky or not by calculating if sum of digits in your birthdate is divisible by your lukcy number
+# is-your-birthday-lucky ??
+ A website which checks whether your birthday is lucky or not by calculating if sum of digits in your birthdate is divisible by your luky number.
 
 # How to use:
 Enter your birth date
